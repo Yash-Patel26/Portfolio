@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "CALCULATOR PRO",
     description:
-      "In this project we uses Android studio",
+      "In this project we uses Android studio.Developed for learning purposes. New java learners can easlily understand how calculator works by this small and simple app.",
     url: "https://yash-patel26.github.io/calculator-app/",
   },
   {
